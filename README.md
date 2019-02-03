@@ -4,14 +4,8 @@ Write your Data Management Plan in here for Burk Survey Project.
 Context:
 The context of project is a Botanical inventory of the Burk Homestead in Blaine, Washington. 
 
-Also, upload previous Data Management assignments. 
-cd
+After you are done, send me two URLs of the repository you created:
 
-cmd 
-
-.git/  
-
-../
-
-to change directories. 
+The repository URL (e.g. https://github.com/BurkR/DataMgmt2019/edit/master/README.md  (Links to an external site.)Links to an external site.)
+ The website URL (e.g. https://clarallebot.github.io/GRAD521_DMPtemplate/ (Links to an external site.)Links to an external site. )
 
