@@ -7,5 +7,5 @@ The context of project is a Botanical inventory of the Burk Homestead in Blaine,
 After you are done, send me two URLs of the repository you created:
 
 The repository URL (e.g. https://github.com/BurkR/DataMgmt2019/edit/master/README.md  (Links to an external site.)Links to an external site.)
- The website URL (e.g. https://clarallebot.github.io/GRAD521_DMPtemplate/ (Links to an external site.)Links to an external site. )
+ The website URL (e.g. https://burkr.github.io/DataMgmt2019/ (Links to an external site.)Links to an external site. )
 
